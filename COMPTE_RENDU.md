@@ -53,3 +53,4 @@ Pourquoi je l'accepte : `/health` reste joignable et indique `model_loaded: fals
 Pourquoi pas B : refuser de démarrer supprime `/health`, donc on ne sait plus pourquoi le service est absent, et un redémarrage automatique pourrait tourner en boucle.
 
 ## 7. Lien de la pull request
+https://github.com/khadijafl/Atelier3/pulls
